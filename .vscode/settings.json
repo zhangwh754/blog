@@ -1,0 +1,10 @@
+{
+    "cSpell.words": [
+      "djdg",
+      "vuepress"
+    ],
+    "files.exclude": {
+      "**/.temp": true,
+      "**/.cache": true,
+    }
+}
