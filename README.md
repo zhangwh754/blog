@@ -4,3 +4,6 @@
 
 使用了vuepress-theme-plume主题
 [vuepress-theme-plume](https://djdg.cn/note/vuepress-theme-plume/)
+
+### 博客地址
+http://djdg626.cn3v.work/
