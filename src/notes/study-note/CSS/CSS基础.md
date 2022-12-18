@@ -1,8 +1,6 @@
 ---
 title: CSS基础
 createTime: 2022/12/14 11:22:40
-tags: 
-  - CSS
 author: djdg626
 permalink: /note/study-note/kpipz3z4/
 ---

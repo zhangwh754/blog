@@ -1,8 +1,6 @@
 ---
 title: 微信小程序代码片段
 createTime: 2022/12/17 16:35:00
-tags: 
-  - 开发
 author: djdg626
 permalink: /note/study-note/7u96vo5t/
 ---

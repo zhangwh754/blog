@@ -1,8 +1,6 @@
 ---
 title: uniapp 请求封装
 createTime: 2022/12/17 16:35:00
-tags: 
-  - 开发
 author: djdg626
 permalink: /note/study-note/qg59l8qw/
 ---

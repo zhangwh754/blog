@@ -1,8 +1,6 @@
 ---
 title: HTML标签
 createTime: 2022/12/12 17:30:00
-tags: 
-  - HTML
 author: djdg626
 permalink: /note/study-note/2x1wp60z/
 ---
