@@ -20,6 +20,11 @@ export default definePlumeNotesItemConfig({
       text: '开发',
       dir: 'Develop',
       children: ['移动端适配']
+    },
+    {
+      text: '代码片段',
+      dir: 'Code_Snippet',
+      children: ['uniapp_网络封装', 'Wx_Api']
     }
   ]
 })
